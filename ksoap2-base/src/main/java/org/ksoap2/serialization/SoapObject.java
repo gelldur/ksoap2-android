@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2003,2004, Stefan Haustein, Oberhausen, Rhld., Germany
+ * opyright (c) 2003,2004, Stefan Haustein, Oberhausen, Rhld., Germany
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
